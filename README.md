@@ -18,7 +18,7 @@ This end-to-end data analysis project delves into the Online Retail dataset to u
 - **Churn Prediction Model:** A Random Forest classifier successfully predicted customer churn with **100% accuracy** on the test set. Feature importance analysis revealed that **Recency** (days since last purchase) was the overwhelming predictor, responsible for **85.7%** of the model's decision, far outweighing Frequency (7.3%) and Monetary value (7.1%).
 
 ## Dashboard
-https://lookerstudio.google.com/reporting/3e55ca32-0198-49b3-ae0b-1fe36a4281a2
+[https://lookerstudio.google.com/reporting/3e55ca32-0198-49b3-ae0b-1fe36a4281a2](https://lookerstudio.google.com/reporting/1b69b813-bc33-48b6-845d-e826244fd894)
 The dashboard provides an at-a-glance view of key performance indicators (KPIs), including:
 - Total Revenue and Customer Count
 - Sales distribution by Country
